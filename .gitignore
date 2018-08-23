@@ -28,4 +28,5 @@
 .idea/**/shelf
 \.idea/
 
+# Vendor
 vendor/
