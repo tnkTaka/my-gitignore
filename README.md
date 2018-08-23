@@ -11,8 +11,11 @@
 `
 *.test
 `
+
 # Output of the go coverage tool, specifically when used with LiteIDE
+`
 *.out
+`
 
 # IntelliJ
 `
