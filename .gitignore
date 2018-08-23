@@ -27,3 +27,5 @@
 .idea/**/dictionaries
 .idea/**/shelf
 \.idea/
+
+vendor/
