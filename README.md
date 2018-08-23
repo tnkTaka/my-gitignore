@@ -1,6 +1,6 @@
 # Binaries for programs and plugins
 `
-*.exe
+*.exe 
 *.exe~
 *.dll
 *.so
@@ -28,6 +28,7 @@
 .idea/libraries
 .idea/caches
 `
+<br>
 `
 .idea/**/workspace.xml
 .idea/**/tasks.xml
